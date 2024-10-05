@@ -10,8 +10,7 @@ Benvenuto nel mio profilo! Sono un programmatore principiante appassionato di Py
 
  Social Media
 
-- [!https://www.instagram.com/gianlungniccolj/](https://img.shields.io/badge/Instagram-8a3ab3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuo_profilo/)
-
+- [https://www.instagram.com/gianlungniccolj/ ](https://img.shields.io/badge/Instagram-8a3ab3?style=for-the-badge&logo=instagram&logoColor=white)
 
  Come Contribuire
 
